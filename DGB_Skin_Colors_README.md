@@ -1,8 +1,8 @@
 Dragonborn Skin Colors
 
-ModIO:
+ModIO
 
-Nexus:
+Nexus
 
 AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55
 
