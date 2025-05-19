@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="b018c439-b5fc-051b-8177-019026852b55"/>
+            <attribute id="Name" type="LSString" value="AkELkA_DGB_Skin_Colors_A"/>
+            <attribute id="UUID" type="LSString" value="b13366c3-b790-f963-989f-2a71bd1ea842"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

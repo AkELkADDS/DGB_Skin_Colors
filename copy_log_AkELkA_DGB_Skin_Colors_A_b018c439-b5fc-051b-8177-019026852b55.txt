@@ -1,0 +1,393 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+   Mon 05/19/2025  4:16:18.92 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\meta.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\CharacterCreationPresets\CharacterCreationSkinColors.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\CharacterCreationPresets\CharacterCreationSkinColors.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_A\84703294-7ed3-1603-07ae-836b1579e948.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Black\36615cb6-7e8e-563e-f082-85db5aed93c5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Black\a2454b01-5c3b-79b7-a9aa-a6d94652885e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Blue\5c734204-72a7-b8ba-27c9-38dec0dc8f5e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\323ea858-6b06-5aad-801e-ce962389049f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\35eb9ff8-ced6-eb69-4543-d4dc49a863fd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\42718a20-d302-732a-76fa-9d9a87982987.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\6d505197-6667-2258-786d-fa911a3ee9c5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\76331580-77ae-9243-b0a1-5e44ef5751f1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\82e7d497-9218-2dd4-f84b-ea196f8de850.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\85d84639-1ff1-8fc9-038d-7a71d4388493.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\8db0b492-3b2c-72ef-7870-78171e2cc61a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\90c7e8de-8031-b381-306b-c031253d2c93.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\9e84ae84-a216-7de5-4b76-c1bf06acd11b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\9f9aa4d4-7842-afd6-9f76-4682990ab29f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\a05cd8cf-eeb1-c30d-0703-49d7b9a4271e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\a57a00e7-b543-9d75-94f4-5e7233f7c5f5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\a67fa622-11f5-7ffe-1069-e13d5ca8ba1d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\aa9ae9d7-c1c9-acf0-89bd-3b2045ba3ea5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\b3723d8a-2bb9-9a40-f412-04c60300d8d3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\c2cda2af-2e7c-a4a5-4466-b22914baad57.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\e9dfb143-b753-3af7-b87f-c84a1a2eccc6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\f082e452-b88d-55c9-8be6-8f5fc9c60e58.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Gold\56331ee7-581d-bbd3-04dc-3e08a54cb968.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\0e3318d7-3dd9-4275-6d65-ea805d539fe3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\126f3b06-6061-89be-e2be-d0883778415e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\127998a1-5467-5208-803b-4d4541b89ad7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\313d34ea-3e1c-a529-af85-971940463b05.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\58e444fa-5e71-d753-5ed6-25d637791af3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\5f84d5bf-9af4-3dd5-721a-93585755083c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\5fe7a913-6a4b-f092-4ce6-aa5ec66feffa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\64292086-0dbc-fbae-cd9e-858bcff0f0e0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\6b46be14-d73f-ebf6-c6ca-13177c2599c3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\835b8868-66c0-27c5-aae8-31bd5f382502.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\953ab5fe-aef5-3b9a-557c-b3523b39239e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\9b3920b9-7e72-2bb2-e4ea-11a327a3d606.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\a8524370-3c4e-014e-1297-f4e14c6ac644.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\c178ce96-c329-8fda-2cf7-c8296a3c5d4b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\c1f10f27-1ee6-26b9-ee82-6e03b8109b80.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\dd2eeea9-c206-c40c-b78b-458c736d978c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\e01c2606-cdd1-1253-39f1-21ad7a65041b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\ef86ba24-427a-41aa-fb49-76784d148e5c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\fd305906-9d55-d87d-a661-2236ac2abb2b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\2982f038-a254-6b11-46d9-3b36a3de9cff.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\3eff59f7-ad76-2928-6701-b1ec48108594.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\4c72a324-7cc7-0c15-89ae-42a54d23df97.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\4ff49543-c17e-533d-8cec-a3650a3fb36f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\67881225-b397-758c-6658-3c3aae133a53.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\72896f07-e8fa-fe9b-bdfb-009c24d5eb6d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\776fd468-7f25-a834-6a44-760beab4fbe8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\84d5832c-dc11-462e-28a5-ef21fe1ccbe0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\8dd53857-251c-5825-42d7-3c7870b5d6b6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\8ff60fe3-b2bc-9419-eedf-c5af1db68c7c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\97d3fe68-f77c-5716-b466-8a2d08185d32.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\a66a0adf-c933-6167-7f10-817340d1d8d0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\a9a0d009-b610-a6b1-4423-04e25bb77755.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\aa979f65-d6f7-ba79-ba36-872e826b4f0e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\bd1700b6-7fcd-5d31-4c8b-2d2c1483de32.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\bff88c40-973a-795a-9d11-6955f2569bc0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\d1862f0c-4721-efcc-fbbe-9f0db334b663.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\d1fc4de2-f354-d6de-dc0d-3588d8da1a91.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\ddbfc3e3-5b6d-3577-5156-1dddc91da25b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\dfd8a46a-25f4-4e24-9c4b-759bf6f94406.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\e75b5dbd-bc92-e058-4f6d-f520f11f75d8.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55: 65 
+ 
+[LOG] Total files found across all folders: 69 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 to Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[DEBUG] Using destination: Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:16:23 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\
+     Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     626	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\meta.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :       626       626         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              626000 Bytes/sec.
+   Speed :              35.820 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:16:23 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Editor\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 to "Editor\Mods"\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[DEBUG] Using destination: Editor\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:16:24 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\
+     Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Editor\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   29894	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\CharacterCreationPresets\CharacterCreationSkinColors.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    29.1 k    29.1 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 4:16:24 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 to Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[DEBUG] Using destination: Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:16:26 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\
+     Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   10469	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\meta.lsx100%  
+	    New File  		    2812	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    12.9 k    12.9 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            13281000 Bytes/sec.
+   Speed :             759.944 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:16:26 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 to Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[DEBUG] Using destination: Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:16:28 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\
+     Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   22022	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\CharacterCreationPresets\CharacterCreationSkinColors.lsx100%  
+	    New File  		    4733	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_A\84703294-7ed3-1603-07ae-836b1579e948.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Black\36615cb6-7e8e-563e-f082-85db5aed93c5.lsf100%  
+	    New File  		    7274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Black\a2454b01-5c3b-79b7-a9aa-a6d94652885e.lsf100%  
+	    New File  		    7274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Blue\5c734204-72a7-b8ba-27c9-38dec0dc8f5e.lsf100%  
+	    New File  		    7272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\323ea858-6b06-5aad-801e-ce962389049f.lsf100%  
+	    New File  		    7284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\35eb9ff8-ced6-eb69-4543-d4dc49a863fd.lsf100%  
+	    New File  		    7284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\42718a20-d302-732a-76fa-9d9a87982987.lsf100%  
+	    New File  		    7279	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\6d505197-6667-2258-786d-fa911a3ee9c5.lsf100%  
+	    New File  		    7272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\76331580-77ae-9243-b0a1-5e44ef5751f1.lsf100%  
+	    New File  		    7272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\82e7d497-9218-2dd4-f84b-ea196f8de850.lsf100%  
+	    New File  		    7276	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\85d84639-1ff1-8fc9-038d-7a71d4388493.lsf100%  
+	    New File  		    7284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\8db0b492-3b2c-72ef-7870-78171e2cc61a.lsf100%  
+	    New File  		    7284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\90c7e8de-8031-b381-306b-c031253d2c93.lsf100%  
+	    New File  		    7272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\9e84ae84-a216-7de5-4b76-c1bf06acd11b.lsf100%  
+	    New File  		    7276	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\9f9aa4d4-7842-afd6-9f76-4682990ab29f.lsf100%  
+	    New File  		    7276	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\a05cd8cf-eeb1-c30d-0703-49d7b9a4271e.lsf100%  
+	    New File  		    7272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\a57a00e7-b543-9d75-94f4-5e7233f7c5f5.lsf100%  
+	    New File  		    7281	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\a67fa622-11f5-7ffe-1069-e13d5ca8ba1d.lsf100%  
+	    New File  		    7272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\aa9ae9d7-c1c9-acf0-89bd-3b2045ba3ea5.lsf100%  
+	    New File  		    7284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\b3723d8a-2bb9-9a40-f412-04c60300d8d3.lsf100%  
+	    New File  		    7279	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\c2cda2af-2e7c-a4a5-4466-b22914baad57.lsf100%  
+	    New File  		    7279	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\e9dfb143-b753-3af7-b87f-c84a1a2eccc6.lsf100%  
+	    New File  		    7284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Copper\f082e452-b88d-55c9-8be6-8f5fc9c60e58.lsf100%  
+	    New File  		    7274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Gold\56331ee7-581d-bbd3-04dc-3e08a54cb968.lsf100%  
+	    New File  		    7269	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\0e3318d7-3dd9-4275-6d65-ea805d539fe3.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\126f3b06-6061-89be-e2be-d0883778415e.lsf100%  
+	    New File  		    7264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\127998a1-5467-5208-803b-4d4541b89ad7.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\313d34ea-3e1c-a529-af85-971940463b05.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\58e444fa-5e71-d753-5ed6-25d637791af3.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\5f84d5bf-9af4-3dd5-721a-93585755083c.lsf100%  
+	    New File  		    7264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\5fe7a913-6a4b-f092-4ce6-aa5ec66feffa.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\64292086-0dbc-fbae-cd9e-858bcff0f0e0.lsf100%  
+	    New File  		    7264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\6b46be14-d73f-ebf6-c6ca-13177c2599c3.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\835b8868-66c0-27c5-aae8-31bd5f382502.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\953ab5fe-aef5-3b9a-557c-b3523b39239e.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\9b3920b9-7e72-2bb2-e4ea-11a327a3d606.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\a8524370-3c4e-014e-1297-f4e14c6ac644.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\c178ce96-c329-8fda-2cf7-c8296a3c5d4b.lsf100%  
+	    New File  		    7269	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\c1f10f27-1ee6-26b9-ee82-6e03b8109b80.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\dd2eeea9-c206-c40c-b78b-458c736d978c.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\e01c2606-cdd1-1253-39f1-21ad7a65041b.lsf100%  
+	    New File  		    7269	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\ef86ba24-427a-41aa-fb49-76784d148e5c.lsf100%  
+	    New File  		    7263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_Red\fd305906-9d55-d87d-a661-2236ac2abb2b.lsf100%  
+	    New File  		    7268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\2982f038-a254-6b11-46d9-3b36a3de9cff.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\3eff59f7-ad76-2928-6701-b1ec48108594.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\4c72a324-7cc7-0c15-89ae-42a54d23df97.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\4ff49543-c17e-533d-8cec-a3650a3fb36f.lsf100%  
+	    New File  		    7266	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\67881225-b397-758c-6658-3c3aae133a53.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\72896f07-e8fa-fe9b-bdfb-009c24d5eb6d.lsf100%  
+	    New File  		    7266	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\776fd468-7f25-a834-6a44-760beab4fbe8.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\84d5832c-dc11-462e-28a5-ef21fe1ccbe0.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\8dd53857-251c-5825-42d7-3c7870b5d6b6.lsf100%  
+	    New File  		    7278	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\8ff60fe3-b2bc-9419-eedf-c5af1db68c7c.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\97d3fe68-f77c-5716-b466-8a2d08185d32.lsf100%  
+	    New File  		    7266	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\a66a0adf-c933-6167-7f10-817340d1d8d0.lsf100%  
+	    New File  		    7268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\a9a0d009-b610-a6b1-4423-04e25bb77755.lsf100%  
+	    New File  		    7277	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\aa979f65-d6f7-ba79-ba36-872e826b4f0e.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\bd1700b6-7fcd-5d31-4c8b-2d2c1483de32.lsf100%  
+	    New File  		    7266	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\bff88c40-973a-795a-9d11-6955f2569bc0.lsf100%  
+	    New File  		    7268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\d1862f0c-4721-efcc-fbbe-9f0db334b663.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\d1fc4de2-f354-d6de-dc0d-3588d8da1a91.lsf100%  
+	    New File  		    7268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\ddbfc3e3-5b6d-3577-5156-1dddc91da25b.lsf100%  
+	    New File  		    7278	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\dfd8a46a-25f4-4e24-9c4b-759bf6f94406.lsf100%  
+	    New File  		    7265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55\Content\[PAK]_AkELkA_DGB_Skin_White\e75b5dbd-bc92-e058-4f6d-f520f11f75d8.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        10        10         1         0         0         0
+   Files :        65        65         0         0         0         0
+   Bytes :   473.3 k   473.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            32317400 Bytes/sec.
+   Speed :            1849.216 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:16:28 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 65 
+[DEBUG] Successfully copied files: 65 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55: 
+      Total files: 65 
+      Copied successfully: 65 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Skin_Colors_A_b018c439-b5fc-051b-8177-019026852b55 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 65 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 69 
+[SUMMARY] Total files successfully copied: 138 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

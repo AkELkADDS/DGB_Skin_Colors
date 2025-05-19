@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="CharacterCreationSkinColors">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb4e4df13g7132gdbbeg5345g875615db7814" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="82e7d497-9218-2dd4-f84b-ea196f8de850"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_1_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="f9634e30-8864-4b89-a539-19f13941162c"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha024649cg2846g7d3dg9889g9bcf4d2b010c" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="76331580-77ae-9243-b0a1-5e44ef5751f1"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_2_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="bc259779-c8a4-4118-8bf4-49a9fbac7b08"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2b07a775gcd51g683eg16b3g5aebf658771d" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="aa9ae9d7-c1c9-acf0-89bd-3b2045ba3ea5"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_3_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="bbc91896-327b-41f1-b4d2-eac1d50fdd1a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6f1d8c64gf598ge806ge61egd2d16a6aca84" version="4"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="9e84ae84-a216-7de5-4b76-c1bf06acd11b"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_4_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="f11038ae-0f7d-40e7-a69e-a9099556c5a8"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc2330b9cgd64cg60fcg2b25g49eec5721c8c" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a57a00e7-b543-9d75-94f4-5e7233f7c5f5"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_5_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="720cf35c-b500-47dc-bb78-a80a3304cd95"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3032ab10g6e89ga76dg1fb8g09da9ea1f514" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="323ea858-6b06-5aad-801e-ce962389049f"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_6_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="f27e674b-7d48-4f2d-9daf-854322ee6fb3"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hab5d04f3g1a30g2facg320agd16302803999" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="e9dfb143-b753-3af7-b87f-c84a1a2eccc6"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Accent_1_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="cfcd5440-eada-4cc4-849b-94c55e75a3de"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdf32bf78g14e2g9d41g2aacg5967e1611e18" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6d505197-6667-2258-786d-fa911a3ee9c5"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Accent_2_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="45c6e412-94a1-40d6-95c5-1e3bc6d5ddd0"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8031dd32g556eg0867gd8cbgae0844dae11d" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="c2cda2af-2e7c-a4a5-4466-b22914baad57"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Accent_3_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="19cd2709-774a-41df-9acb-493a5d3fdcc4"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h900e909ag5786g024dgf399g89bbec99178e" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="b3723d8a-2bb9-9a40-f412-04c60300d8d3"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="4c94f961-f612-47da-9773-737982682d32"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha12bd1eag5a6dgca8bg0a93gb1c29b4d9058" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8db0b492-3b2c-72ef-7870-78171e2cc61a"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Blue_Scales_2_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="f5631d4a-0876-4007-b0b9-1aa3a81618f0"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="heed96bfdg2bfcg7fe8gb713g15a6f546370e" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a67fa622-11f5-7ffe-1069-e13d5ca8ba1d"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Oxidized_1_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="c99f1606-9fda-4beb-8584-36bc6f1f0f42"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2082d659gd028g3ef3g975bgda4d385d4e93" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f082e452-b88d-55c9-8be6-8f5fc9c60e58"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_2"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF3D450D"/>
+                    <attribute id="UUID" type="guid" value="5e47a4da-16f2-43b9-996f-0cd2b0f88116"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h67e22674g5d80gaf9ag24d8g075f96b598ff" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="90c7e8de-8031-b381-306b-c031253d2c93"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_3"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="906b335a-3190-4923-9d2b-e7c1f95d2659"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h80110406g2f30gb5e5g9e30g15dd3c23560d" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="35eb9ff8-ced6-eb69-4543-d4dc49a863fd"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_4"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="b7672386-89f8-4ede-ba4f-6a0bdba3aece"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0fbec244ga669gedf7ga43dg841496223cf8" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="42718a20-d302-732a-76fa-9d9a87982987"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_5"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF8A1308"/>
+                    <attribute id="UUID" type="guid" value="09b43749-9dff-46be-b8d2-69f0b56bfa25"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd463eca9g0ac9gfab7g51ddgd464f11d109d" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a2454b01-5c3b-79b7-a9aa-a6d94652885e"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Black_Obsidian_A_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF060606"/>
+                    <attribute id="UUID" type="guid" value="edfd07f8-22ae-46b8-b09e-913232671509"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h49e59636g0fc6g1a54gaf31g5d55e2d59992" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="5c734204-72a7-b8ba-27c9-38dec0dc8f5e"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Blue_Dark_Sand_A_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF0B191D"/>
+                    <attribute id="UUID" type="guid" value="1b7c26bc-b878-44c9-894e-fa1a654258a6"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="he57ab230gc022g4aaeg8c0fgfae86f3ceebd" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="bff88c40-973a-795a-9d11-6955f2569bc0"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_White_11_AkELkA_2"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="ff62ebea-9bc9-4756-ae89-7b1285011f04"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h90c5bb65ga7e8gb1dbgdfdcgf762e29854da" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="126f3b06-6061-89be-e2be-d0883778415e"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Red_9_AkELkA_2"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="ab3ab4d3-9330-4d59-aeb0-737f79f6ef22"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb88139b9g36c7gfef5gba30g575ae2e317be" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="a05cd8cf-eeb1-c30d-0703-49d7b9a4271e"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Red_A_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF540000"/>
+                    <attribute id="UUID" type="guid" value="1901f3d2-812d-411a-99b3-217c87161f50"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h193d93f3g6489gfc76g40d2g6d39fb686d5d" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="ef86ba24-427a-41aa-fb49-76784d148e5c"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Red_Black_A_AkELkA_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF2D0007"/>
+                    <attribute id="UUID" type="guid" value="f05c053c-d8e6-460d-91ee-6a71944f6d39"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h482e6efdg870bg8a48g5885g348ca9a28bf5" version="2"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="0e3318d7-3dd9-4275-6d65-ea805d539fe3"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Red_Black_A_AkELkA_2"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF2D0007"/>
+                    <attribute id="UUID" type="guid" value="82e5bd89-4545-4cb2-8437-8c5c80a184b1"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h926590c2gd10cge1d5g0bbcg2af2045d3f79" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="9f9aa4d4-7842-afd6-9f76-4682990ab29f"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Metal_Copper_Red_A_AkELkA_2"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF540000"/>
+                    <attribute id="UUID" type="guid" value="075eb72d-7ece-4c2f-a868-2cb1bf4e3525"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h072ef940g6420g9043g9b31g80f3cb8b5f54" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="85d84639-1ff1-8fc9-038d-7a71d4388493"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_Red_9_AkELkA_2"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FF540000"/>
+                    <attribute id="UUID" type="guid" value="940058ee-20f7-439b-b514-09a98692d17f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="e1f8dd6a-6e05-4a6d-a355-ad50e514f624"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="651fa226-4746-4af2-b91b-d006fb297749"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="ba0e75c3-141d-4ced-94a8-876ef73f2272"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="92a8a24d-31ce-4d65-82e2-0b4c6d2a3559"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="d54f72fe-f171-43c4-9ac4-5984b56a0671"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="903b93fc-74b4-4d88-ab81-f547abb3d39f"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="bee49aa2-1bb8-475e-9028-94680355f4fc"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="ad43b863-563c-433c-b5b7-169900b7ab00"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="7b63a968-52bd-4849-85f8-f21dea412415"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="0f249f7b-cf00-4345-a38c-68c6ff031b8a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="5ad05015-4c7e-4bbd-8360-a215339c0943"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="6467a893-7984-4543-a514-af9d35f3c4c3"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="a91a89c7-af18-4af6-aa0d-1d061e8d795a"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="b2fa5284-3fe2-4d40-b953-19c0e629b992"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="68cc3c61-efd3-4f93-8c2e-bbccaa74e7be"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="1562ddcd-a889-4a07-9fd0-36afc5841866"/>
+                </node>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UUID" type="guid" value="e755f2bf-10b9-49a8-a76f-6912d70d7993"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

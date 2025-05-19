@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="6af7c7da-7f7c-4bf2-a517-73b98f894305">
+  <stat_objects>
+    <stat_object color="#FF8B0000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f9634e30-8864-4b89-a539-19f13941162c" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_1_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb4e4df13g7132gdbbeg5345g875615db7814" version="4" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="82e7d497-9218-2dd4-f84b-ea196f8de850" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bc259779-c8a4-4118-8bf4-49a9fbac7b08" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_2_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha024649cg2846g7d3dg9889g9bcf4d2b010c" version="4" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="76331580-77ae-9243-b0a1-5e44ef5751f1" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bbc91896-327b-41f1-b4d2-eac1d50fdd1a" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_3_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2b07a775gcd51g683eg16b3g5aebf658771d" version="4" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="aa9ae9d7-c1c9-acf0-89bd-3b2045ba3ea5" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f11038ae-0f7d-40e7-a69e-a9099556c5a8" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_4_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6f1d8c64gf598ge806ge61egd2d16a6aca84" version="4" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="9e84ae84-a216-7de5-4b76-c1bf06acd11b" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="720cf35c-b500-47dc-bb78-a80a3304cd95" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_5_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc2330b9cgd64cg60fcg2b25g49eec5721c8c" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a57a00e7-b543-9d75-94f4-5e7233f7c5f5" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f27e674b-7d48-4f2d-9daf-854322ee6fb3" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_6_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3032ab10g6e89ga76dg1fb8g09da9ea1f514" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="323ea858-6b06-5aad-801e-ce962389049f" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cfcd5440-eada-4cc4-849b-94c55e75a3de" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Accent_1_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hab5d04f3g1a30g2facg320agd16302803999" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="e9dfb143-b753-3af7-b87f-c84a1a2eccc6" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="45c6e412-94a1-40d6-95c5-1e3bc6d5ddd0" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Accent_2_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdf32bf78g14e2g9d41g2aacg5967e1611e18" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="6d505197-6667-2258-786d-fa911a3ee9c5" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="19cd2709-774a-41df-9acb-493a5d3fdcc4" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Accent_3_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8031dd32g556eg0867gd8cbgae0844dae11d" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="c2cda2af-2e7c-a4a5-4466-b22914baad57" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4c94f961-f612-47da-9773-737982682d32" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h900e909ag5786g024dgf399g89bbec99178e" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="b3723d8a-2bb9-9a40-f412-04c60300d8d3" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f5631d4a-0876-4007-b0b9-1aa3a81618f0" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Blue_Scales_2_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha12bd1eag5a6dgca8bg0a93gb1c29b4d9058" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="8db0b492-3b2c-72ef-7870-78171e2cc61a" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c99f1606-9fda-4beb-8584-36bc6f1f0f42" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Oxidized_1_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heed96bfdg2bfcg7fe8gb713g15a6f546370e" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a67fa622-11f5-7ffe-1069-e13d5ca8ba1d" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5e47a4da-16f2-43b9-996f-0cd2b0f88116" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2082d659gd028g3ef3g975bgda4d385d4e93" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="f082e452-b88d-55c9-8be6-8f5fc9c60e58" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF3D450D" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="906b335a-3190-4923-9d2b-e7c1f95d2659" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h67e22674g5d80gaf9ag24d8g075f96b598ff" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="90c7e8de-8031-b381-306b-c031253d2c93" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_14" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b7672386-89f8-4ede-ba4f-6a0bdba3aece" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_4" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h80110406g2f30gb5e5g9e30g15dd3c23560d" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="35eb9ff8-ced6-eb69-4543-d4dc49a863fd" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_15" />
+        <field name="UUID" type="IdTableFieldDefinition" value="09b43749-9dff-46be-b8d2-69f0b56bfa25" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Blue_Scales_1_AkELkA_5" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0fbec244ga669gedf7ga43dg841496223cf8" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="42718a20-d302-732a-76fa-9d9a87982987" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF8A1308" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_16" />
+        <field name="UUID" type="IdTableFieldDefinition" value="edfd07f8-22ae-46b8-b09e-913232671509" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Black_Obsidian_A_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd463eca9g0ac9gfab7g51ddgd464f11d109d" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a2454b01-5c3b-79b7-a9aa-a6d94652885e" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF060606" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1b7c26bc-b878-44c9-894e-fa1a654258a6" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Blue_Dark_Sand_A_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h49e59636g0fc6g1a54gaf31g5d55e2d59992" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="5c734204-72a7-b8ba-27c9-38dec0dc8f5e" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF0B191D" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_18" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ff62ebea-9bc9-4756-ae89-7b1285011f04" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_White_11_AkELkA_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he57ab230gc022g4aaeg8c0fgfae86f3ceebd" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="bff88c40-973a-795a-9d11-6955f2569bc0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_19" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ab3ab4d3-9330-4d59-aeb0-737f79f6ef22" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Red_9_AkELkA_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h90c5bb65ga7e8gb1dbgdfdcgf762e29854da" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="126f3b06-6061-89be-e2be-d0883778415e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_20" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1901f3d2-812d-411a-99b3-217c87161f50" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Red_A_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb88139b9g36c7gfef5gba30g575ae2e317be" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="a05cd8cf-eeb1-c30d-0703-49d7b9a4271e" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF540000" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_21" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f05c053c-d8e6-460d-91ee-6a71944f6d39" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Red_Black_A_AkELkA_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h193d93f3g6489gfc76g40d2g6d39fb686d5d" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="ef86ba24-427a-41aa-fb49-76784d148e5c" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF2D0007" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_22" />
+        <field name="UUID" type="IdTableFieldDefinition" value="82e5bd89-4545-4cb2-8437-8c5c80a184b1" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Red_Black_A_AkELkA_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h482e6efdg870bg8a48g5885g348ca9a28bf5" version="2" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="0e3318d7-3dd9-4275-6d65-ea805d539fe3" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF2D0007" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_23" />
+        <field name="UUID" type="IdTableFieldDefinition" value="075eb72d-7ece-4c2f-a868-2cb1bf4e3525" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Metal_Copper_Red_A_AkELkA_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h926590c2gd10cge1d5g0bbcg2af2045d3f79" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="9f9aa4d4-7842-afd6-9f76-4682990ab29f" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF540000" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_24" />
+        <field name="UUID" type="IdTableFieldDefinition" value="940058ee-20f7-439b-b514-09a98692d17f" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_Red_9_AkELkA_2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h072ef940g6420g9043g9b31g80f3cb8b5f54" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="85d84639-1ff1-8fc9-038d-7a71d4388493" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FF540000" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_25" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e1f8dd6a-6e05-4a6d-a355-ad50e514f624" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_26" />
+        <field name="UUID" type="IdTableFieldDefinition" value="651fa226-4746-4af2-b91b-d006fb297749" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_27" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ba0e75c3-141d-4ced-94a8-876ef73f2272" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_28" />
+        <field name="UUID" type="IdTableFieldDefinition" value="92a8a24d-31ce-4d65-82e2-0b4c6d2a3559" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_29" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d54f72fe-f171-43c4-9ac4-5984b56a0671" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_30" />
+        <field name="UUID" type="IdTableFieldDefinition" value="903b93fc-74b4-4d88-ab81-f547abb3d39f" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_31" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bee49aa2-1bb8-475e-9028-94680355f4fc" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_32" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ad43b863-563c-433c-b5b7-169900b7ab00" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_33" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7b63a968-52bd-4849-85f8-f21dea412415" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_34" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0f249f7b-cf00-4345-a38c-68c6ff031b8a" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_35" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5ad05015-4c7e-4bbd-8360-a215339c0943" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_36" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6467a893-7984-4543-a514-af9d35f3c4c3" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_37" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a91a89c7-af18-4af6-aa0d-1d061e8d795a" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_38" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b2fa5284-3fe2-4d40-b953-19c0e629b992" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_39" />
+        <field name="UUID" type="IdTableFieldDefinition" value="68cc3c61-efd3-4f93-8c2e-bbccaa74e7be" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_40" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1562ddcd-a889-4a07-9fd0-36afc5841866" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_41" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e755f2bf-10b9-49a8-a76f-6912d70d7993" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
